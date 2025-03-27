@@ -115,3 +115,4 @@ def get_house_managers(house_id):
 if __name__ == '__main__':
     # Start the Flask development server on port 5555 with debug mode enabled
     app.run(port=5555, debug=True)
+    
